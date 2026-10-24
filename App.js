@@ -59,4 +59,5 @@ export default function App() {
       <ProductScreen />
     </View>
   );
+  <Text>Bienvenue chez Nike !</Text>
 }
